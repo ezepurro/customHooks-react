@@ -26,9 +26,3 @@ const useForm = ( initalForm = {} ) => {
 }
 
 export default useForm
-
-// {
-//     username: '',
-//     email: '',
-//     password: '',
-// }
